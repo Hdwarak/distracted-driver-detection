@@ -16,7 +16,7 @@ Distracted driving is a significant cause of road accidents. This project utiliz
 - Reaching behind (c7)
 - Hair and makeup (c8)
 - Talking to passenger (c9)
-  The dataset can be found on kaggle.
+  
 
 ## Features
 
@@ -41,3 +41,5 @@ Distracted driving is a significant cause of road accidents. This project utiliz
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/distracted-driver-detection.git
+
+The dataset can be found on kaggle.
