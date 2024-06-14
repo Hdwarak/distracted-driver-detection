@@ -33,8 +33,6 @@ Distracted driving is a significant cause of road accidents. This project utiliz
 - TensorFlow
 - Keras
 - Matplotlib
-- NumPy
-- OpenCV
 
 ### Installation
 
